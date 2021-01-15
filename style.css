@@ -1,0 +1,23 @@
+body{
+    background-size: cover;
+}
+
+#start, #number_of_objects{
+    size: 18px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: burlywood;
+    bottom: 0px;
+    width: 100%;
+    background: brown;
+    text-align: center;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px lightgray;
+}
